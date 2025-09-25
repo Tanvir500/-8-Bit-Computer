@@ -1,1 +1,3 @@
 # -8-Bit-Computer
+
+The main intention of this project was to build a programmable 8 bit computer and do some mathematical operations. Basically it was an implementation of SAP-1 (A model of a microprocessor to develop basic understanding). We had to build Program Counter, Memory Address register, RAM, Arithmatic Logic Unit, Instruction Register, Output Register, CPU Control Logic, Output Display, etc. The 8 bit instruction with 4 bit opcode had been uploaded in EEPROM in CPU Control Logic with Arduino. While using, user has to give instructions in MAR selecting the program mode. Then the computer will be able to implement the instructions in the next 6 clock cylces (Fetch & Execution).
